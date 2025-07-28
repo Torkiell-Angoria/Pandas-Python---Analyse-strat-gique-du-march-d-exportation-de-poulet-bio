@@ -1,0 +1,33 @@
+{
+  "chart": {
+    "title": "Chicken meat yield per animal",
+    "subtitle": "Average meat yield per carcass, measured in kilograms per chicken.",
+    "citation": "Food and Agriculture Organization of the United Nations (2025)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/chicken-meat-yields-per-animal?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Czechoslovakia",
+      "Saint Pierre and Miquelon",
+      "Armenia"
+    ]
+  },
+  "columns": {
+    "Meat, chicken | 00001058 || Yield | 005424 || kilograms per animal": {
+      "titleShort": "Chicken meat yield per animal",
+      "titleLong": "Chicken meat yield per animal - FAO",
+      "shortUnit": "kg/animal",
+      "unit": "kilograms per animal",
+      "timespan": "1961-2023",
+      "type": "Numeric",
+      "conversionFactor": 1,
+      "owidVariableId": 1018692,
+      "shortName": "meat__chicken__00001058__yield__005424__kilograms_per_animal",
+      "lastUpdated": "2025-03-17",
+      "nextUpdate": "2026-03-17",
+      "citationShort": "Food and Agriculture Organization of the United Nations (2025) – with major processing by Our World in Data",
+      "citationLong": "Food and Agriculture Organization of the United Nations (2025) – with major processing by Our World in Data. “Chicken meat yield per animal – FAO” [dataset]. Food and Agriculture Organization of the United Nations, “Production: Crops and livestock products” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1018692.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-06-02",
+  "activeFilters": {}
+}
