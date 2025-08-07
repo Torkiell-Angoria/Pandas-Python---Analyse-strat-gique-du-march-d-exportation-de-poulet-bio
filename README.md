@@ -10,4 +10,4 @@
 
 ## Carte des clients potentiels
 
-![Carte client potentiels]()
+![Carte client potentiels](https://github.com/Torkiell-Angoria/Pandas-Python---Analyse-strat-gique-du-march-d-exportation-de-poulet-bio/blob/main/img/projet%2011%20segmentation%20clients.PNG)
