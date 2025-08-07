@@ -16,7 +16,7 @@ Les étapes du projet sont les suivantes :
 
 ---
 
-## 🧰 Outils et technologies utilisés
+##  Outils et technologies utilisés
 
 | Outil / Technologie | Rôle |
 |----------------------|------|
@@ -29,18 +29,18 @@ Les étapes du projet sont les suivantes :
 
 ---
 
-## 📦 Livrables à rendre (dans un dossier `.zip`)
+##  Livrables à rendre 
 
 Le dossier compressé à rendre contient les **fichiers suivants** :
 
-### 1. 📁 `1_data_cleaning.ipynb`
+### 1. notebook preparation données
 - Préparation, nettoyage et fusion des données
 - Justification des variables retenues (analyse PESTEL)
 - Résultat : jeu de données prêt à l’analyse (≥100 pays, ≥8 variables)
 
 - ![Nettoyage](https://github.com/Torkiell-Angoria/Pandas-Python---Analyse-strat-gique-du-march-d-exportation-de-poulet-bio/blob/main/img/acp.gif)
 
-### 2. 📁 `2_analysis_clustering.ipynb`
+### 2. notebook analyse-clustering
 - Analyse exploratoire (visualisations, stats descriptives)
 - ACP : cercle des corrélations, projection des pays
 - Clustering : CAH + K-Means
@@ -48,7 +48,7 @@ Le dossier compressé à rendre contient les **fichiers suivants** :
 
 ![ACP](https://github.com/Torkiell-Angoria/Pandas-Python---Analyse-strat-gique-du-march-d-exportation-de-poulet-bio/blob/main/img/nettoyage.gif)
 
-### 3. 📁 `presentation_COMEX.pptx` (ou `.pdf`)
+### 3. présentation pdf
 - Présentation synthétique destinée au **COMEX**
 - Maximum **25 slides**
 - Contenu : objectifs, méthodologie, visualisations clés, recommandations stratégiques
